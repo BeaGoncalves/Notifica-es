@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736018263503",
+    "project_id": "notifications-9c525",
+    "storage_bucket": "notifications-9c525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736018263503:android:d0c88bbffacd517d8df6ba",
+        "android_client_info": {
+          "package_name": "br.com.estudos.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736018263503-5hjeee6ijahohi7h0ed3kdeo4ok1send.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cjf5_IMz2uD6dGvvvCRfmvQrSamVp1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736018263503-5hjeee6ijahohi7h0ed3kdeo4ok1send.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
